@@ -1,0 +1,15 @@
+***startSetup***
+M,10
+adaptive_mode,False
+periodic_bc,False
+batch_size,1500
+num_epochs,25
+learn_rate,1e-4
+l2_reg,0.0
+fold,3
+inp_dim,18
+csv_column,0,17,19,21
+path,/home/dglab/sumanta/TorchMPS/test_code/data
+TorchMPS_path,/home/dglab/sumanta/
+input_file,input_train_18sites.csv
+***endSetup***
