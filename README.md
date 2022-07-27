@@ -10,8 +10,8 @@ Here, the code generates a converged MPS by the supervised learning method. The 
 3. TorchMPS 
 
 # Contributors :
-1. Prof. Debashree Ghosh
-2. Sumanta Kumar Ghosh
+1. Sumanta Kumar Ghosh
+2. Debashree Ghosh
 
 # Compilation :
 	a) First, install the TorchMPS software in workstation: git clone https://github.com/jemisjoky/TorchMPS.git
